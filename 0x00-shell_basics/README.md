@@ -1,1 +1,1 @@
-this is my readme folder for devops basics project
+ths is to copy all html files
